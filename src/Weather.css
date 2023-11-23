@@ -1,0 +1,52 @@
+.Weather {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 5px;
+  box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  margin: 150px 50px 25px 50px;
+  padding: 50px;
+}
+
+.Weather .form-control {
+  border: none;
+}
+
+.Weather .btn {
+  background: white;
+  color: #ee9da8;
+}
+
+.Weather h1 {
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.Weather ul {
+  padding: 0;
+  list-style: none;
+}
+
+.Weather .row {
+  align-items: center;
+}
+
+.Weather .temperature {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.Weather .unit {
+  font-size: 25px;
+  font-weight: 300;
+  position: relative;
+  top: -18px;
+  margin-left: 3px;
+}
+
+.Weather .weather-information {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+  padding: 10px 15px;
+}

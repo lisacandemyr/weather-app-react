@@ -1,5 +1,6 @@
 import React from "react";
 import Weather from "./Weather";
+import Footer from "./Footer";
 import "./App.css";
 
 export default function App() {
@@ -7,9 +8,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather />
-        <footer>
-          <p>This project was coded by Lisa and is open-sourced on GitHub</p>
-        </footer>
+        <Footer />
       </div>
     </div>
   );
