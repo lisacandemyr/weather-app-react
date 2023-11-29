@@ -1,3 +1,4 @@
 body {
-  background: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+  background: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  overflow: hidden;
 }

@@ -1,5 +1,20 @@
 .Footer {
   color: white;
-  font-family: "Poppins", sans-serif;
+  font-family: "Grenze Gotisch", serif;
+  font-size: 20px;
+  font-weight: 300;
   text-align: center;
+  text-transform: lowercase;
+  margin-bottom: 80px;
+}
+
+.Footer a {
+  color: white;
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.Footer a:hover {
+  opacity: 1;
+  transition: all 200ms ease-in-out;
 }

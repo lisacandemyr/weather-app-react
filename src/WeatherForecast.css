@@ -2,7 +2,19 @@
   text-align: center;
 }
 
+.WeatherForecast .temperature-max {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
 .WeatherForecast .temperature-min {
-  opacity: 0.6;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
   margin-left: 5px;
+  opacity: 0.6;
+}
+
+.WeatherForecast .day {
+  font-size: 20px;
+  font-weight: 300;
 }
