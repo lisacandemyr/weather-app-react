@@ -3,9 +3,10 @@
   font-family: "Grenze Gotisch", serif;
   font-size: 20px;
   font-weight: 300;
+  line-height: 0;
   text-align: center;
   text-transform: lowercase;
-  margin-bottom: 80px;
+  margin-bottom: 100px;
 }
 
 .Footer a {
